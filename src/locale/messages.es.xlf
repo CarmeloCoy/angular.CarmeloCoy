@@ -100,7 +100,7 @@
       </trans-unit>
       <trans-unit id="experience.education.description" datatype="html">
         <source>Studied Secondary Education at I.E.S. El Bohio.</source>
-        <target>Estudié Educación Secundaria en el I.E.S. El Bohío.</target>
+        <target>Cursada la ESO y Bachillerato en el instituto I.E.S. El Bohio.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/experience/experience.component.html</context>
           <context context-type="linenumber">16,17</context>
@@ -152,7 +152,7 @@
       </trans-unit>
       <trans-unit id="experience.dual-degree.description" datatype="html">
         <source> In 2014, I began my university studies at the University of Murcia, motivated by my passion for mathematics, the incessant growth of computer science in everyday world, and my condition of good student, I decided to do this Double Degree whose curriculum is 5 years. </source>
-        <target> En 2014 comencé mis estudios universitarios en la Universidad de Murcia. Motivado por mi pasión por las matemáticas, el crecimiento incesante de la informática en el mundo cotidiano y mi condición de buen estudiante, decidí cursar este Doble Grado, cuyo plan de estudios tiene una duración de cinco años. </target>
+        <target> En 2014 comencé mis estudios universitarios en la Universidad de Murcia. Motivado por mi pasión por las matemáticas, el incesante crecimiento de la informática en el día a día, y mi condición de buen estudiante, decidí realizar este Doble Grado cuyo plan de estudios es de 5 años. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/experience/experience.component.html</context>
           <context context-type="linenumber">30,32</context>
@@ -188,7 +188,7 @@
       </trans-unit>
       <trans-unit id="experience.repsol-internship.description" datatype="html">
         <source> During the summer of 2017, I made an internship in the IT team of Repsol&apos;s Cartagena factory. Support to IT infrastructures and systems support. </source>
-        <target> Durante el verano de 2017 realicé prácticas en el equipo de TI de la fábrica de Repsol en Cartagena, dando soporte a infraestructuras y sistemas informáticos. </target>
+        <target> urante el verano del 2017, estuve de práctias en el equipo de IT de la fábrica de Cartagena de Repsol. Soporte a las infraestructuras de IT y soporte a sistemas. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/experience/experience.component.html</context>
           <context context-type="linenumber">48,49</context>
@@ -212,7 +212,7 @@
       </trans-unit>
       <trans-unit id="experience.computer-engineering-degree.description" datatype="html">
         <source> In this year, I finished all the subjects related to the Engineering part Engineering. I was able to obtain my degree in this discipline. </source>
-        <target> Ese año terminé todas las asignaturas relacionadas con la parte de Ingeniería Informática y pude obtener mi título en esta disciplina. </target>
+        <target> En este año, finalicé todas las asignaturas relativas a la parte de Ingeniería Informática. Pudiendo así obtener mi graduado en esta disciplina. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/experience/experience.component.html</context>
           <context context-type="linenumber">64,65</context>
@@ -248,7 +248,7 @@
       </trans-unit>
       <trans-unit id="experience.capgemini-junior-engineer.description" datatype="html">
         <source> My first step into the working world begins while I finish my studies. Software development for external clients using C/C++ and Java with client-side client methodologies. </source>
-        <target> Mi primer paso en el mundo laboral comenzó mientras terminaba mis estudios. Desarrollo de software para clientes externos con C/C++ y Java, utilizando metodologías propias del cliente. </target>
+        <target> Comienza mi primera incursión en el mundo laboral mientras finalizo mis estudios. Desarrollo de Software para clientes externos usando C/C++ y Java con metodologías del cliente. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/experience/experience.component.html</context>
           <context context-type="linenumber">80,81</context>
@@ -304,7 +304,7 @@
       </trans-unit>
       <trans-unit id="experience.capgemini-engineer.description" datatype="html">
         <source> From that date, I moved on from the programmer role to take on the role of Programmer-Analyst. I produced technical designs using the aforementioned technologies for a client in the insurance sector. </source>
-        <target> A partir de esa fecha, pasé del puesto de programador al de analista-programador. Realicé diseños técnicos utilizando las tecnologías mencionadas para un cliente del sector asegurador. </target>
+        <target> Desde este fecha dejé el rol de programador para tomar las riendas del rol Analista-Programador. Realización de diseños técnicos usando las citadas tecnologías para cliente del sector seguros. </target>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/experience/experience.component.html</context>
           <context context-type="linenumber">113,114</context>
