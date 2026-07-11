@@ -31,11 +31,19 @@ languages.forEach((lang) => {
 
     const newUnits = [];
     sourceUnits.forEach((sourceUnit) => {
+        let target = '--TO TRANSLATE--';
+        if (map.has(sourceUnit['@_id']) && map.get(sourceUnit['@_id']).source === sourceUnit.source) {
+            console.log(`Keeping translation for ${sourceUnit['@_id']}`);
+            if (sourceUnit['@_id'] == 'about-me.introduction') {
+                console.log(`Translation: --${map.get(sourceUnit['@_id']).source}-- Source: --${sourceUnit.source}`);
+            }
+            target = map.get(sourceUnit['@_id']).target;
+        }
         newUnits.push({
             '@_id': sourceUnit['@_id'],
             '@_datatype': sourceUnit['@_datatype'],
             source: sourceUnit.source,
-            target: map.has(sourceUnit['@_id']) ? map.get(sourceUnit['@_id']).target : '',
+            target: target,
             'context-group': sourceUnit['context-group'],
         });
     });
