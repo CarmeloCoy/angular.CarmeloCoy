@@ -34,9 +34,11 @@
 }
 
 .author-img {
-    max-height: 750px;
-    max-width: 325px;
-    padding: 1rem;
+  padding: 1rem;
+  border-radius: 25%;
+  object-fit: cover;
+  width: 290px;
+  height: 260px;
 }
 
 /* ************************* Section About Me ************************* */

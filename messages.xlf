@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="about-me.name" datatype="html">
+        <source>Carmelo A.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about-me/about-me.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about-me.role" datatype="html">
+        <source>Student.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about-me/about-me.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about-me.profession" datatype="html">
+        <source>Mathematician and computer engineer.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about-me/about-me.component.html</context>
+          <context context-type="linenumber">6,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about-me.photo-title" datatype="html">
+        <source>This is me</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about-me/about-me.component.html</context>
+          <context context-type="linenumber">9,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about-me.title" datatype="html">
+        <source>ABOUT ME</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about-me/about-me.component.html</context>
+          <context context-type="linenumber">15,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about-me.introduction" datatype="html">
+        <source> Hello! My name is Carmelo. I studied a Dual Degree in Computer Engineering and Mathematics at the <x id="START_LINK" ctype="x-a" equiv-text="&lt;a href=&quot;http://www.um.es/&quot; target=&quot;_blank&quot;&gt;"/>University of Murcia<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>. I specialized in in Software Engineering. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about-me/about-me.component.html</context>
+          <context context-type="linenumber">18,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about-me.programming-passion" datatype="html">
+        <source> I love science in general, puzzles and brain teasers in particular. That&apos;s where my passion for programming comes from. For me programming is like solving a challenge where the important thing is not only to give a solution, but to do it in a beautiful way, with quality. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about-me/about-me.component.html</context>
+          <context context-type="linenumber">23,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="about-me.hobbies" datatype="html">
+        <source> In my free time, apart from programming, I like soccer, more to watch it than to play it; the sea and the mountain. Every Sunday you can find me in my seat at the Cartagonova stadium, cheering on F.C. Cartagena. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/about-me/about-me.component.html</context>
+          <context context-type="linenumber">28,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.title" datatype="html">
+        <source>EXPERIENCE</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.education.title" datatype="html">
+        <source>Science Secondary Education</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">11,12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.education.date" datatype="html">
+        <source>Sept 2012 - Jun 2014</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.education.location" datatype="html">
+        <source>I.E.S. El Bohio, Cartagena, Spain</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">13,15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.education.description" datatype="html">
+        <source>Studied Secondary Education at I.E.S. El Bohio.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">16,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.dual-degree.title" datatype="html">
+        <source>Dual Degree in Computer Engineering and Mathematics</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">144,145</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.dual-degree.date" datatype="html">
+        <source>Sept 2014</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">145,146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.dual-degree.location" datatype="html">
+        <source>University of Murcia, Murcia, Spain</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">26,28</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">146,148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.dual-degree.description" datatype="html">
+        <source> In 2014, I began my university studies at the University of Murcia, motivated by my passion for mathematics, the incessant growth of computer science in everyday world, and my condition of good student, I decided to do this Double Degree whose curriculum is 5 years. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">30,32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">150,152</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.repsol-internship.title" datatype="html">
+        <source>Internship at Repsol</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">42,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.repsol-internship.date" datatype="html">
+        <source>Jul 2017 - Aug 2017</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">43,44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.repsol-internship.location" datatype="html">
+        <source>Repsol S.A., Cartagena, Spain</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">44,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.repsol-internship.description" datatype="html">
+        <source> During the summer of 2017, I made an internship in the IT team of Repsol&apos;s Cartagena factory. Support to IT infrastructures and systems support. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">48,49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.computer-engineering-degree.title" datatype="html">
+        <source>Degree in Computer Engineering.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">58,59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.computer-engineering-degree.date" datatype="html">
+        <source>Jul 2019</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">59,60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.computer-engineering-degree.location" datatype="html">
+        <source>University of Murcia, Murcia, Spain</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">60,62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.computer-engineering-degree.description" datatype="html">
+        <source> In this year, I finished all the subjects related to the Engineering part Engineering. I was able to obtain my degree in this discipline. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">64,65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.capgemini-junior-engineer.title" datatype="html">
+        <source>Junior Software Engineer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">74,75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.capgemini-junior-engineer.date" datatype="html">
+        <source>Sept 2019</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">75,76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.capgemini-junior-engineer.location" datatype="html">
+        <source>Capgemini, Murcia, Spain</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">76,78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.capgemini-junior-engineer.description" datatype="html">
+        <source> My first step into the working world begins while I finish my studies. Software development for external clients using C/C++ and Java with client-side client methodologies. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">80,82</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.mathematics-degree.title" datatype="html">
+        <source>Degree in Mathematics.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">91,92</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.mathematics-degree.date" datatype="html">
+        <source>Mar 2020</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">92,93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.mathematics-degree.location" datatype="html">
+        <source>University of Murcia, Murcia, Spain</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">93,95</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.mathematics-degree.description" datatype="html">
+        <source> In this year, I finished all the subjects related to the Computer Engineering part. I was able to obtain my second degree. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">97,98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.capgemini-engineer.title" datatype="html">
+        <source>Software Engineer.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">107,108</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.capgemini-engineer.date" datatype="html">
+        <source>Aug 2020 - Dec 2020</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">108,109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.capgemini-engineer.location" datatype="html">
+        <source>Capgemini, Murcia, Spain</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">109,111</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.capgemini-engineer.description" datatype="html">
+        <source> From that date, I moved on from the programmer role to take on the role of Programmer-Analyst. I produced technical designs using the aforementioned technologies for a client in the insurance sector. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">113,114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.nommon-engineer.title" datatype="html">
+        <source>Software Engineer.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">123,124</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">162,163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.nommon-engineer.date" datatype="html">
+        <source>Jan 2021</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">124,125</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">163,164</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.nommon-engineer.location" datatype="html">
+        <source> Nommon Solutions and Technologies, Madrid, Spain </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">126,127</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">165,166</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.nommon-engineer.description" datatype="html">
+        <source> New year, new life. I began a new stage as a Software Engineer in a new company and a new city. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">131,132</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">170,171</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.show-less" datatype="html">
+        <source>Show less...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">182,184</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="experience.show-more" datatype="html">
+        <source>Show more...</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/experience/experience.component.html</context>
+          <context context-type="linenumber">184,187</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footer.social-links-title" datatype="html">
+        <source>You can also find me at:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/footer/footer.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nav-bar.home-link" datatype="html">
+        <source> Home </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav-bar/nav-bar.component.html</context>
+          <context context-type="linenumber">8,10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nav-bar.about-me-link" datatype="html">
+        <source> About me </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav-bar/nav-bar.component.html</context>
+          <context context-type="linenumber">11,13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nav-bar.experience-link" datatype="html">
+        <source> Experience </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav-bar/nav-bar.component.html</context>
+          <context context-type="linenumber">14,16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nav-bar.skills-link" datatype="html">
+        <source> Skills </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav-bar/nav-bar.component.html</context>
+          <context context-type="linenumber">17,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nav-bar.maintenance-banner" datatype="html">
+        <source>Welcome to My Junior Website 🌐 - We&apos;re Working on a New One! 🚧✨</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/nav-bar/nav-bar.component.html</context>
+          <context context-type="linenumber">27,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="skills.title" datatype="html">
+        <source>SKILLS</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/skills/skills.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="skills.algorithm" datatype="html">
+        <source>Algorithm</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/skills/skills.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="skills.design-patterns" datatype="html">
+        <source>Design Patterns</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/skills/skills.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="skills.web-service-rest" datatype="html">
+        <source>Web Service (REST)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/skills/skills.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

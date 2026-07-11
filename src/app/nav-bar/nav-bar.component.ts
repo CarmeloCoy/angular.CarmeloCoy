@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, inject, LOCALE_ID } from '@angular/core';
 
 @Component({
     selector: 'app-nav-bar',
@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
     styleUrl: './nav-bar.component.css',
 })
 export class NavBarComponent {
+    readonly languageFlagSrc = inject(LOCALE_ID).startsWith('es') ? '/GB.png' : '/ES.png';
     showNavbar = false;
 
     toggleNavbar(): void {
