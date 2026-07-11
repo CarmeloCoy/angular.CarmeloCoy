@@ -1,9 +1,10 @@
-import { Component, inject, LOCALE_ID } from '@angular/core';
+import { Component, inject, LOCALE_ID, ChangeDetectionStrategy } from '@angular/core';
 
 @Component({
     selector: 'app-nav-bar',
     imports: [],
     templateUrl: './nav-bar.component.html',
+    changeDetection: ChangeDetectionStrategy.Eager,
     styleUrl: './nav-bar.component.css',
 })
 export class NavBarComponent {

@@ -1,9 +1,10 @@
-import { Component } from '@angular/core';
+import { Component, ChangeDetectionStrategy } from '@angular/core';
 
 @Component({
     selector: 'app-experience',
     imports: [],
     templateUrl: './experience.component.html',
+    changeDetection: ChangeDetectionStrategy.Eager,
     styleUrl: './experience.component.css',
 })
 export class ExperienceComponent {
