@@ -1,0 +1,13 @@
+{
+    // General settings
+    "files.eol": "\n",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.rulers": [120],
+    "editor.formatOnSave": true,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "conventionalCommits.scopes": [
+        "i18n"
+    ]
+}

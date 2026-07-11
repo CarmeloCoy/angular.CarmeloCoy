@@ -1,0 +1,50 @@
+.skills-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.skill {
+    flex-basis: 20%;
+    padding: 30px 15px 30px 10px;
+}
+
+.skill-header {
+    text-align: center;
+}
+
+.stepper {
+    display: flex;
+}
+
+.cell {
+    background-color: #d8d5d0;
+    height: 16px;
+    max-width: 55px;
+    width: 16.66%;
+    min-width: 35px;
+    line-height: 16px;
+    border-right: 3px solid #fff;
+    margin: 2.99999px 0 0;
+    text-align: center;
+    font-size: 0.8em;
+    color: #fff;
+}
+
+.cell.active {
+    background-color: #017df5;
+}
+
+.cell.first {
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+}
+
+.cell.last {
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+
+.cell > span {
+    opacity: 0;
+}

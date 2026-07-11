@@ -1,0 +1,43 @@
+.page-footer {
+    background: rgb(136, 138, 140);
+    background: linear-gradient(0deg, rgba(136, 138, 140, 1) 0%, rgba(238, 238, 238, 1) 93%);
+    margin-bottom: 0px;
+}
+
+.title-footer {
+    font-family: 'Signika Negative', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-footer {
+    display: inline-block;
+    background-color: #f9f9f9 !important;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    color: #343a40 !important;
+    margin: 5px 5px 5px 5px;
+    padding: 0;
+}
+
+.btn-footer i {
+    vertical-align: middle;
+    line-height: 50px;
+    height: inherit;
+    width: inherit;
+    color: #343a40 !important;
+    text-align: center;
+}
+
+.footer-copyright {
+    text-align: center;
+}

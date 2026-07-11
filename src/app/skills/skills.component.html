@@ -1,0 +1,19 @@
+<section id="habilidades" class="sec-dark">
+    <h1 i18n="@@skills.title" class="title-section">SKILLS</h1>
+    <div id="skillsContainer" class="skills-container">
+        @for (skill of skills; track skill) {
+            <div class="skill">
+                <div class="skill-header">{{ skill.title }}</div>
+                <div class="stepper">
+                    <div class="cell first active"><span>0</span></div>
+                    @for (index of [0, 1, 2, 3, 4, 5]; track index) {
+                        <div class="cell" [class.active]="index < skill.value">
+                            <span>{{ index }}</span>
+                        </div>
+                    }
+                    <div class="cell last"><span>5</span></div>
+                </div>
+            </div>
+        }
+    </div>
+</section>
