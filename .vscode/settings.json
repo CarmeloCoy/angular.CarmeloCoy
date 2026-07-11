@@ -6,5 +6,8 @@
     "editor.formatOnSave": true,
     "[json]": {
         "editor.defaultFormatter": "vscode.json-language-features"
-    }
+    },
+    "conventionalCommits.scopes": [
+        "i18n"
+    ]
 }
