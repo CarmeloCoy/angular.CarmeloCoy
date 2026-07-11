@@ -8,6 +8,7 @@
         "start": "ng serve --host 0.0.0.0",
         "start:es": "ng serve --host 0.0.0.0 --configuration es",
         "build": "ng build",
+        "deploy": "bash scripts/deploy.sh",
         "watch": "ng build --watch --configuration development",
         "test": "ng test"
     },
