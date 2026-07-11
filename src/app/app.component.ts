@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ChangeDetectionStrategy } from '@angular/core';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { AboutMeComponent } from './about-me/about-me.component';
 import { SkillsComponent } from './skills/skills.component';
@@ -15,6 +15,7 @@ import { FooterComponent } from './footer/footer.component';
         <app-skills></app-skills>
         <app-footer></app-footer>
     `,
+    changeDetection: ChangeDetectionStrategy.Eager,
     styles: ``,
 })
 export class AppComponent {}

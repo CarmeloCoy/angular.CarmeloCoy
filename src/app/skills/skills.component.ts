@@ -1,32 +1,25 @@
-import { Component } from '@angular/core';
+import { Component, ChangeDetectionStrategy } from '@angular/core';
 
 @Component({
     selector: 'app-skills',
     imports: [],
     templateUrl: './skills.component.html',
+    changeDetection: ChangeDetectionStrategy.Eager,
     styleUrl: './skills.component.css',
 })
 export class SkillsComponent {
     skills = [
-        { title: $localize`:@@skills.algorithm:Algorithm`, value: 4 },
-        { title: $localize`:@@skills.design-patterns:Design Patterns`, value: 4 },
-        { title: `Testing`, value: 3 },
-        { title: `Debugging`, value: 5 },
-        { title: `C++`, value: 4 },
-        { title: `Java 8`, value: 5 },
-        { title: `Java EE`, value: 4 },
-        { title: `Python`, value: 3 },
-        { title: `HTML`, value: 3 },
-        { title: `CSS`, value: 3 },
-        { title: `JavaScript`, value: 3 },
-        { title: `Flex CSS`, value: 3 },
-        { title: `SQL`, value: 5 },
-        { title: `NoSQL`, value: 2 },
-        { title: $localize`:@@skills.web-service-rest:Web Service (REST)`, value: 3 },
-        { title: `GraphQL`, value: 3 },
-        { title: `LaTex`, value: 4 },
+        { title: `Python`, value: 5 },
+        { title: `Django`, value: 5 },
+        { title: `Angular`, value: 4 },
+        { title: `AWS`, value: 4 },
+        { title: `Azure`, value: 3 },
+        { title: `Terraform`, value: 4 },
+        { title: `Docker`, value: 4 },
+        { title: `Infrastructure as Code`, value: 5 },
+        { title: `Software Architecture`, value: 5 },
+        { title: `REST`, value: 4 },
+        { title: `SQL`, value: 4 },
         { title: `Git`, value: 4 },
-        { title: `Docker`, value: 3 },
-        { title: `Scrum`, value: 3 },
     ];
 }
