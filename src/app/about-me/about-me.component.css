@@ -11,7 +11,7 @@
 }
 
 .author-name {
-    font-family: "Signika Negative", sans-serif;
+    font-family: 'Signika Negative', sans-serif;
     font-size: 4rem;
     font-weight: bold;
     color: #232;
@@ -21,24 +21,24 @@
 }
 
 .author-desc1 {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.75rem;
     font-weight: bold;
     color: #cdcdcd;
 }
 
 .author-desc2 {
-    font-family: "Source Sans Pro", sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     font-size: 1.75rem;
     color: #cdcdcd;
 }
 
 .author-img {
-  padding: 1rem;
-  border-radius: 25%;
-  object-fit: cover;
-  width: 290px;
-  height: 260px;
+    padding: 1rem;
+    border-radius: 25%;
+    object-fit: cover;
+    width: 290px;
+    height: 260px;
 }
 
 /* ************************* Section About Me ************************* */

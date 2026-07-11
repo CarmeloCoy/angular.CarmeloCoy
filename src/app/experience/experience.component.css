@@ -8,7 +8,7 @@
     top: 0;
     bottom: 0;
     position: absolute;
-    content: " ";
+    content: ' ';
     width: 3px;
     background-color: #eeeeee;
     left: 50%;
@@ -22,7 +22,7 @@
 
 .timeline > li:before,
 .timeline > li:after {
-    content: " ";
+    content: ' ';
     display: table;
 }
 
@@ -32,7 +32,7 @@
 
 .timeline > li:before,
 .timeline > li:after {
-    content: " ";
+    content: ' ';
     display: table;
 }
 
@@ -60,7 +60,7 @@
     border-left: 15px solid #ccc;
     border-right: 0 solid #ccc;
     border-bottom: 15px solid transparent;
-    content: " ";
+    content: ' ';
 }
 
 .timeline > li > .timeline-panel:after {
@@ -72,7 +72,7 @@
     border-left: 14px solid #fff;
     border-right: 0 solid #fff;
     border-bottom: 14px solid transparent;
-    content: " ";
+    content: ' ';
 }
 
 .timeline > li > .timeline-badge {
